@@ -1,0 +1,62 @@
+{
+  "allPlaceholder": "",
+  "showInfoWindowOnSelect": true,
+  "sources": [
+    {
+      "layerId": "stpao_parcel_data_4682",
+      "url": "https://services5.arcgis.com/Ph2T7y7nG3DrfrQ1/arcgis/rest/services/stpao_parcel_data/FeatureServer/0",
+      "name": "STPAO Parcels",
+      "placeholder": "",
+      "searchFields": [
+        "assmnt_num",
+        "REID"
+      ],
+      "displayField": "REID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "panToScale": false,
+      "zoomScale": null,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    },
+    {
+      "layerId": "FieldAddress_Office_1827",
+      "url": "https://services5.arcgis.com/Ph2T7y7nG3DrfrQ1/arcgis/rest/services/FieldAddress_Office/FeatureServer/0",
+      "name": "FieldAddress_Office",
+      "placeholder": "",
+      "searchFields": [
+        "ADD_NUM",
+        "ST_NAME",
+        "ST_TYPE",
+        "ASSMNT_NUM",
+        "REID"
+      ],
+      "displayField": "REID",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "panToScale": false,
+      "zoomScale": null,
+      "maxSuggestions": 6,
+      "maxResults": 12,
+      "type": "query"
+    },
+    {
+      "layerId": "911_Address_Points_8213",
+      "url": "https://services5.arcgis.com/Ph2T7y7nG3DrfrQ1/arcgis/rest/services/911_Address_Points/FeatureServer/0",
+      "name": "911_Address_Points",
+      "placeholder": "",
+      "searchFields": [
+        "address"
+      ],
+      "displayField": "address",
+      "exactMatch": false,
+      "searchInCurrentMapExtent": false,
+      "panToScale": false,
+      "zoomScale": 1000,
+      "maxSuggestions": 6,
+      "maxResults": 6,
+      "type": "query"
+    }
+  ]
+}

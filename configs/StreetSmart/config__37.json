@@ -1,0 +1,30 @@
+{
+  "token": "ZGZlc2tlQHN0cGFvLm9yZzpGYXRhc3NkKio0MjE2",
+  "locale": "en-US",
+  "atlasHost": "https://atlas.cyclomedia.com",
+  "agreement": true,
+  "measurement": "",
+  "overlay": "",
+  "navigation": false,
+  "units": "ft",
+  "saveMeasurements": false,
+  "overlays": false,
+  "linkMapMove": true,
+  "allowEditing": false,
+  "srs": "EPSG:3452",
+  "timetravel": false,
+  "showStreetName": true,
+  "toggleAll": false,
+  "buttonVisibility": {
+    "OVERLAYS": false,
+    "ELEVATION": false,
+    "REPORT_BLURRING": false,
+    "OPEN_OBLIQUE": false,
+    "OPEN_POINTCLOUD": false,
+    "MEASURE": false,
+    "SAVE_IMAGE": true,
+    "IMAGE_INFORMATION": true,
+    "ZOOM_IN": true,
+    "ZOOM_OUT": true
+  }
+}

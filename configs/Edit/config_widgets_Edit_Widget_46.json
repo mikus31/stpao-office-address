@@ -1,0 +1,284 @@
+{
+  "editor": {
+    "enableUndoRedo": true,
+    "toolbarVisible": true,
+    "toolbarOptions": {
+      "mergeVisible": false,
+      "cutVisible": false,
+      "reshapeVisible": false
+    },
+    "honorSettingOfWebmap": true,
+    "layerInfos": [
+      {
+        "featureLayer": {
+          "id": "FieldAddress_Tasks_6068_3291"
+        },
+        "disableGeometryUpdate": false,
+        "allowCreate": true,
+        "allowDelete": true,
+        "fieldInfos": [
+          {
+            "fieldName": "FIELD_TASK",
+            "label": "FIELD_TASK",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COMMENTS",
+            "label": "COMMENTS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ASSMNT_NUM",
+            "label": "ASSMNT_NUM",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ADD_NUM",
+            "label": "ADD_NUM",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ST_NAME",
+            "label": "ST_NAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ST_TYPE",
+            "label": "ST_TYPE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ST_PRE_DIR",
+            "label": "ST_DIR",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GlobalID",
+            "label": "GlobalID",
+            "isEditable": false,
+            "visible": false
+          },
+          {
+            "fieldName": "created_user",
+            "label": "created_user",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "created_date",
+            "label": "created_date",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "last_edited_user",
+            "label": "last_edited_user",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "last_edited_date",
+            "label": "last_edited_date",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": false,
+            "visible": false
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "FieldAddress_Tasks_6068"
+        },
+        "disableGeometryUpdate": false,
+        "allowCreate": true,
+        "allowDelete": true,
+        "fieldInfos": [
+          {
+            "fieldName": "FIELD_TASK",
+            "label": "FIELD_TASK",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COMMENTS",
+            "label": "COMMENTS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ASSMNT_NUM",
+            "label": "ASSMNT_NUM",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ADD_NUM",
+            "label": "ADD_NUM",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ST_NAME",
+            "label": "ST_NAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ST_TYPE",
+            "label": "ST_TYPE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ST_PRE_DIR",
+            "label": "ST_DIR",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GlobalID",
+            "label": "GlobalID",
+            "isEditable": false,
+            "visible": false
+          },
+          {
+            "fieldName": "created_user",
+            "label": "created_user",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "created_date",
+            "label": "created_date",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "last_edited_user",
+            "label": "last_edited_user",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "last_edited_date",
+            "label": "last_edited_date",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": false,
+            "visible": false
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "FieldAddress_Office_6666"
+        },
+        "disableGeometryUpdate": false,
+        "allowCreate": true,
+        "allowDelete": true,
+        "fieldInfos": [
+          {
+            "fieldName": "FIELD_TASK",
+            "label": "FIELD_TASK",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ASSMNT_NUM",
+            "label": "ASSMNT_NUM",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ADD_NUM",
+            "label": "ADD_NUM",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ST_PRE_DIR",
+            "label": "ST_PRE_DIR",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ST_NAME",
+            "label": "ST_NAME",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "ST_TYPE",
+            "label": "ST_TYPE",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "COMMENTS",
+            "label": "COMMENTS",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "GlobalID",
+            "label": "GlobalID",
+            "isEditable": false,
+            "visible": false
+          },
+          {
+            "fieldName": "created_user",
+            "label": "created_user",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "created_date",
+            "label": "created_date",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "last_edited_user",
+            "label": "last_edited_user",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "last_edited_date",
+            "label": "last_edited_date",
+            "isEditable": false,
+            "visible": true
+          },
+          {
+            "fieldName": "OBJECTID",
+            "label": "OBJECTID",
+            "isEditable": false,
+            "visible": false
+          }
+        ]
+      }
+    ],
+    "useFilterEdit": false,
+    "autoApplyEditWhenGeometryIsMoved": false,
+    "snappingTolerance": 15,
+    "popupTolerance": 5,
+    "stickyMoveTolerance": 0,
+    "usingSaveButton": false
+  }
+}

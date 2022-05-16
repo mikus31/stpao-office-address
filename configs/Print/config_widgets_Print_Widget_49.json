@@ -1,0 +1,8 @@
+{
+  "serviceURL": "https://utility.arcgisonline.com/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task",
+  "defaultTitle": "Web AppBuilder for ArcGIS",
+  "defaultAuthor": "",
+  "defaultCopyright": "Imagery and Data © St. Tammany Assessor's Office",
+  "defaultFormat": "PDF",
+  "defaultLayout": "Letter ANSI A Landscape"
+}

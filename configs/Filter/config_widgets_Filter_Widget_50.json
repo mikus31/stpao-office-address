@@ -1,0 +1,25 @@
+{
+  "zoomto": false,
+  "allowCustom": true,
+  "filters": [
+    {
+      "layerId": "FieldAddress_Tasks_6068",
+      "url": "https://services5.arcgis.com/Ph2T7y7nG3DrfrQ1/arcgis/rest/services/FieldAddress_Tasks/FeatureServer/0",
+      "name": "FieldAddress_Tasks",
+      "filter": {
+        "logicalOperator": "AND",
+        "parts": [],
+        "expr": "1=1"
+      },
+      "icon": "",
+      "enableMapFilter": true,
+      "autoApplyWhenWidgetOpen": false,
+      "collapse": false
+    }
+  ],
+  "taskOper": "AND",
+  "groupByLayer": false,
+  "zoombackto": false,
+  "allowResetAll": false,
+  "allowTurnOffAll": false
+}
